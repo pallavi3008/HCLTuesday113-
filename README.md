@@ -1,2 +1,1 @@
-# HCLTuesday113-
-git &amp; github commands
+   #this repo content has been taken from local machine
